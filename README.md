@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Swapnil-girme97/Swapnil-girme97/main/banner.png.jpeg" alt="banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Swapnil Girme 
 
 🚀 DevOps Learner | Cloud Enthusiast | Building in Public  
